@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
+title: 
 ---
-## About
-I am a data science student at sapienza univeristy of Rome
+## Background
+I am a data science student at sapienza univeristy of Rome.
 Enjoy!
